@@ -6,7 +6,7 @@
 
 **[تنزيل AppZone Pro Installer للأندرويد](https://raw.githubusercontent.com/a97ppzonepro-ux/AppZone-Pro-Installer/main/AppZonePro-Installer.apk)**
 
-- الإصدار: 2.1.0
+- الإصدار: 2.2.0
 - الصيغة: APK
 - الموقع الرسمي: https://appzonepro.com/android/
 
